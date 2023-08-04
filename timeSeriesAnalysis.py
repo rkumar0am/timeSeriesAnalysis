@@ -28,6 +28,4 @@ def exploreInputs():
     holidays_events = pd.read_csv(BASE + "holidays_events.csv")
     sample_submission = pd.read_csv(BASE + "sample_submission.csv") 
         
-exploreInputs()       
-
-#Preprocessing of inputData
+exploreInputs()
